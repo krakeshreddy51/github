@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfService3.RestService1" CodeBehind="RestService1.svc.cs" 
+Factory="System.ServiceModel.Activation.WebServiceHostFactory"
+%>
+
+
